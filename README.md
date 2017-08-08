@@ -9,4 +9,4 @@ The book was originally written for Skimage 0.7.x. In early 2015, a new version 
 If you have installed Python recently or if you have upgraded Skimage, then you will have Skimage 0.11.x. In such a case, use files from the folder, "Skimage0.11".
 
 ### Errata
-As we find errors in the book or the code, we will be documenting in the file [errata.md] (https://github.com/SriPudipeddi/IMAUP-book-ed-1/blob/master/errata.md). 
+As we find errors in the book or the code, we will be documenting in the file https://github.com/SriPudipeddi/IMAUP-book-ed-1/blob/master/errata.md. 
