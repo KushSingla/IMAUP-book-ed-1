@@ -1,0 +1,6 @@
+#!/bin/bash
+#PBS -l nodes=1:ppn=8,pmem=1750mb,walltime=00:10:00
+cd $PBS_O_WORKDIR
+module load python-epd
+module load gcc ompi/gnu
+mpirun -np 8 python firstmpi.py
